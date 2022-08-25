@@ -1,5 +1,5 @@
 
-# <i><b>💖TECHNO MINDZ AutoDelete RoBot💝</i></b>
+# <i><b>AFSU's AutoDelete RoBot💝</i></b>
 
 
 ## Usage of Credits Must Be There While Forking
@@ -34,7 +34,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/AutoDeleteRobot">
+<a href="https://heroku.com/deploy?template=https://github.com/mrhadow/AutoDeleteRobot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -93,16 +93,16 @@ MADE BY @TmMainChannel
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 
 <a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
-<a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/botsupportp"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
   
 ## CREATED BY
  
-* [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
+* [⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳](https://t.me/AFxSU)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Thanks to 
 
  - [EvaMaria](https://github.com/EvamariaTG/EvaMaria) Where We Used This As a Base Source Code for this Project
- - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/RaviTechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/Extra_Feature_Bot)
+ - Thanks To [⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳](https://github.com/mrhadow/AutoDeleteRobot) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/Extra_Feature_Bot)
  - Thanks To All Of My Subscribers😊
